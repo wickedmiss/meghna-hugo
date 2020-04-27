@@ -1,4 +1,4 @@
-baseURL = "https://chloewuzhere.netlify.com"
+baseURL = "https://chloewuzhere.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
